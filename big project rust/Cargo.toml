@@ -1,0 +1,21 @@
+[package]
+name = "ppm"
+version = "0.1.0"
+authors = ["Zakaria fahraoui <zakaria.fahraoui@gmail.com>"]
+edition = "2018"
+build = "src/build.rs"
+
+[lib]
+name = "ppm"
+crate-type = ["dylib", "rlib"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+criterion = "0.3"
+libc = "0.2.0"
+
+[[bench]]
+name = "image_benchmark"
+harness = false
+

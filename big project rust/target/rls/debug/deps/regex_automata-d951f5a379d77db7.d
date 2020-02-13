@@ -1,0 +1,11 @@
+/Users/Primo/Downloads/esgi-rust-ppm-master/big project rust/target/rls/debug/deps/regex_automata-d951f5a379d77db7.rmeta: /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/lib.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/classes.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/dense.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/dfa.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/regex.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/sparse.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/state_id.rs
+
+/Users/Primo/Downloads/esgi-rust-ppm-master/big project rust/target/rls/debug/deps/regex_automata-d951f5a379d77db7.d: /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/lib.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/classes.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/dense.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/dfa.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/regex.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/sparse.rs /Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/state_id.rs
+
+/Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/lib.rs:
+/Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/classes.rs:
+/Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/dense.rs:
+/Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/dfa.rs:
+/Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/regex.rs:
+/Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/sparse.rs:
+/Users/Primo/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.8/src/state_id.rs:
